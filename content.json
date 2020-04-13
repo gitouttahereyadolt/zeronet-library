@@ -1,0 +1,29 @@
+{
+ "address": "1LX49GcJ52xF8UGvN1obXex6u4XLwfmzZW",
+ "description": "ZeroNet Site Template",
+ "files": {
+  "README.md": {
+   "sha512": "b5be4a8867d401acb6f215f85aa900ab74fdcb1aad8802794359dbb54fad57da",
+   "size": 6063
+  },
+  "dbschema.json": {
+   "sha512": "edd33feaaeef761de525163755d6bc9eadc4a86e62a2a3ef85d5049247dead08",
+   "size": 1980
+  },
+  "index.html": {
+   "sha512": "71bd634e35c52f856217d29b2705115eb47f967b1c3dc849f8febac8872402fe",
+   "size": 649
+  }
+ },
+ "ignore": "(^(content|dbschema).json)|(tests.*)|(node_modules.*)|(^\\..+)",
+ "inner_path": "content.json",
+ "modified": 1547584373,
+ "postmessage_nonce_security": true,
+ "signers_sign": "HGOykyETw5Osr0Wp/AgjJim4vYcra/TuWFbQ5g9ZbU8VABlpZlpRA+IFFDfoWG6A6V6tySdVf3uKbuihKrRE3KM=",
+ "signs": {
+  "1LX49GcJ52xF8UGvN1obXex6u4XLwfmzZW": "Gw8AOkVAiyg1B/HweXjmjDcq8HKvt/4tLMrxzdrh1o6APJ4E6wmdDKyyOdiRUHenZEWrNxSn8KX1+MXQuF9yTFU="
+ },
+ "signs_required": 1,
+ "title": "ZeroNet Site Template",
+ "zeronet_version": "0.6.4"
+}
